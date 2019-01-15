@@ -1,0 +1,6 @@
+var childern = 3;
+var pratner="sara";
+var location = "riyadh";
+var jobTitle ="A";
+console.log("You will be a " +partner+"in"
++location + "with"+childern+"kids");
